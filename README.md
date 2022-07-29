@@ -1,3 +1,3 @@
-[heroku](https://dashboard.heroku.com/apps/evgeniy-27-ahj-sse-ws)
+[heroku](https://dashboard.heroku.com/apps/ahj-sse-ws-chat)
 
 # ahj-sse-ws_backend
